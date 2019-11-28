@@ -1,0 +1,7 @@
+/dogs-vs-cats/
+**/data/
+**/datasets/
+**/out/
+**/logs/
+*.h5
+*.h5f
